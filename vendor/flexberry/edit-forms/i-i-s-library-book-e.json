@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Book",
+  "name": "IISLibraryBookE",
+  "className": "BookE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-library-book",
+      "modelProjection": "BookE"
+    }
+  ]
+}
